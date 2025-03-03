@@ -1,2 +1,3 @@
 add newfile
 changes 2
+changes 3
